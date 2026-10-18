@@ -56,7 +56,7 @@ users can see its quality.
 - pH/turbidity sensing, solar charging, filter replacement alerts
 
 ## 👥 Team
-- [Tharindu Premasundare](https://www.linkedin.com/in/tharindu-premasundare-09a58827a/)
+- [Oshan Gunasekara](https://www.linkedin.com/in/oshan-gunasekara-bb880a2aa/)
 - [Sachila Herath](https://www.linkedin.com/in/sachilaherath/)
 - [Naveen Weerakoon](https://www.linkedin.com/in/naveen-weerakoon-bb5443372/)
 
